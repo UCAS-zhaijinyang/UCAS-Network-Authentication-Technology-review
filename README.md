@@ -1,2 +1,6 @@
-# UCAS Network Authentication Technology review
-国科大网络认证技术期末复习资料
+# UCAS [网络认证技术](https://jwba.ucas.ac.cn/sc/course/courseplan/266584) 2025 期末复习资料
+
+## 课程概况（以本届课程为参考）
+- 每节课程开始前有扫码签到，老师不点名
+- 大概会留两到三次的课后作业，难度适中；没有课堂测试
+- 最后一节课是复习课（重点听），复习课内容占最后考试内容的85%到90%（完全不夸张）
